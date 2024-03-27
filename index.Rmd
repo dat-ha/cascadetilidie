@@ -3,4 +3,11 @@ title: "Cascade Summer 2024"
 output: html_document
 ---
 
-HI!
+This is to test displaying new incoming data for the upcoming field season.
+
+
+Time of last update:
+```{r, echo=FALSE}
+print(Sys.time())
+```
+
