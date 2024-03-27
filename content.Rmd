@@ -1,0 +1,8 @@
+---
+title: "Main page!"
+output: 
+  html_document:
+    df_print: paged
+---
+
+This is where you link to the other files...
